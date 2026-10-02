@@ -1,0 +1,133 @@
+product_id,product_name,department,brand_type,unit_price
+P0001,Bananas 1kg,Fruit & Veg,Branded,3.9
+P0002,Royal Gala Apples 1kg,Fruit & Veg,Branded,5.5
+P0003,Hass Avocado Each,Fruit & Veg,Branded,2.5
+P0004,Baby Spinach 120g,Fruit & Veg,Branded,3.0
+P0005,Carrots 1kg,Fruit & Veg,Branded,2.2
+P0006,Brown Onions 1kg,Fruit & Veg,Branded,2.8
+P0007,Broccoli Each,Fruit & Veg,Branded,1.9
+P0008,Cherry Tomatoes 250g,Fruit & Veg,Branded,3.5
+P0009,Strawberries 250g,Fruit & Veg,Branded,4.5
+P0010,Potatoes Washed 2kg,Fruit & Veg,Branded,5.0
+P0011,Lemons Each,Fruit & Veg,Branded,0.9
+P0012,Cucumber Lebanese Each,Fruit & Veg,Branded,1.2
+P0013,Beef Mince 500g,Meat & Seafood,Branded,8.0
+P0014,Woolworths Beef Mince 500g,Meat & Seafood,Woolworths Own Brand,6.24
+P0015,Chicken Breast Fillets 1kg,Meat & Seafood,Branded,13.0
+P0016,Woolworths Chicken Breast Fillets 1kg,Meat & Seafood,Woolworths Own Brand,10.14
+P0017,Lamb Loin Chops 500g,Meat & Seafood,Branded,14.0
+P0018,Woolworths Lamb Loin Chops 500g,Meat & Seafood,Woolworths Own Brand,10.92
+P0019,Pork Sausages 500g,Meat & Seafood,Branded,7.0
+P0020,Woolworths Pork Sausages 500g,Meat & Seafood,Woolworths Own Brand,5.46
+P0021,Atlantic Salmon Fillets 250g,Meat & Seafood,Branded,11.0
+P0022,Woolworths Atlantic Salmon Fillets 250g,Meat & Seafood,Woolworths Own Brand,8.58
+P0023,Chicken Thigh Fillets 1kg,Meat & Seafood,Branded,15.0
+P0024,Woolworths Chicken Thigh Fillets 1kg,Meat & Seafood,Woolworths Own Brand,11.7
+P0025,Beef Scotch Fillet 400g,Meat & Seafood,Branded,18.0
+P0026,Woolworths Beef Scotch Fillet 400g,Meat & Seafood,Woolworths Own Brand,14.04
+P0027,Prawns Cooked 500g,Meat & Seafood,Branded,16.0
+P0028,Woolworths Prawns Cooked 500g,Meat & Seafood,Woolworths Own Brand,12.48
+P0029,Full Cream Milk 2L,"Dairy, Eggs & Fridge",Branded,3.1
+P0030,Woolworths Full Cream Milk 2L,"Dairy, Eggs & Fridge",Woolworths Own Brand,2.42
+P0031,Light Milk 2L,"Dairy, Eggs & Fridge",Branded,3.1
+P0032,Woolworths Light Milk 2L,"Dairy, Eggs & Fridge",Woolworths Own Brand,2.42
+P0033,Free Range Eggs 12pk,"Dairy, Eggs & Fridge",Branded,7.0
+P0034,Woolworths Free Range Eggs 12pk,"Dairy, Eggs & Fridge",Woolworths Own Brand,5.46
+P0035,Tasty Cheese Block 500g,"Dairy, Eggs & Fridge",Branded,8.0
+P0036,Woolworths Tasty Cheese Block 500g,"Dairy, Eggs & Fridge",Woolworths Own Brand,6.24
+P0037,Greek Yoghurt 1kg,"Dairy, Eggs & Fridge",Branded,6.5
+P0038,Woolworths Greek Yoghurt 1kg,"Dairy, Eggs & Fridge",Woolworths Own Brand,5.07
+P0039,Butter 250g,"Dairy, Eggs & Fridge",Branded,5.0
+P0040,Woolworths Butter 250g,"Dairy, Eggs & Fridge",Woolworths Own Brand,3.9
+P0041,Ham Sliced 250g,"Dairy, Eggs & Fridge",Branded,5.5
+P0042,Woolworths Ham Sliced 250g,"Dairy, Eggs & Fridge",Woolworths Own Brand,4.29
+P0043,Hummus 200g,"Dairy, Eggs & Fridge",Branded,3.8
+P0044,Woolworths Hummus 200g,"Dairy, Eggs & Fridge",Woolworths Own Brand,2.96
+P0045,White Sandwich Bread 700g,Bakery,Branded,3.5
+P0046,Woolworths White Sandwich Bread 700g,Bakery,Woolworths Own Brand,2.73
+P0047,Wholemeal Bread 700g,Bakery,Branded,3.8
+P0048,Woolworths Wholemeal Bread 700g,Bakery,Woolworths Own Brand,2.96
+P0049,Sourdough Loaf,Bakery,Branded,5.5
+P0050,Woolworths Sourdough Loaf,Bakery,Woolworths Own Brand,4.29
+P0051,Croissants 4pk,Bakery,Branded,5.0
+P0052,Woolworths Croissants 4pk,Bakery,Woolworths Own Brand,3.9
+P0053,Wraps 8pk,Bakery,Branded,4.0
+P0054,Woolworths Wraps 8pk,Bakery,Woolworths Own Brand,3.12
+P0055,Pasta Spaghetti 500g,Pantry,Branded,1.8
+P0056,Woolworths Pasta Spaghetti 500g,Pantry,Woolworths Own Brand,1.4
+P0057,Basmati Rice 2kg,Pantry,Branded,6.0
+P0058,Woolworths Basmati Rice 2kg,Pantry,Woolworths Own Brand,4.68
+P0059,Pasta Sauce 500g,Pantry,Branded,3.2
+P0060,Woolworths Pasta Sauce 500g,Pantry,Woolworths Own Brand,2.5
+P0061,Olive Oil 750ml,Pantry,Branded,11.0
+P0062,Woolworths Olive Oil 750ml,Pantry,Woolworths Own Brand,8.58
+P0063,Rolled Oats 1kg,Pantry,Branded,3.5
+P0064,Woolworths Rolled Oats 1kg,Pantry,Woolworths Own Brand,2.73
+P0065,Peanut Butter 375g,Pantry,Branded,4.5
+P0066,Woolworths Peanut Butter 375g,Pantry,Woolworths Own Brand,3.51
+P0067,Canned Tomatoes 400g,Pantry,Branded,1.2
+P0068,Woolworths Canned Tomatoes 400g,Pantry,Woolworths Own Brand,0.94
+P0069,Instant Coffee 200g,Pantry,Branded,12.0
+P0070,Woolworths Instant Coffee 200g,Pantry,Woolworths Own Brand,9.36
+P0071,Tea Bags 100pk,Pantry,Branded,5.0
+P0072,Woolworths Tea Bags 100pk,Pantry,Woolworths Own Brand,3.9
+P0073,Cereal 500g,Pantry,Branded,6.0
+P0074,Woolworths Cereal 500g,Pantry,Woolworths Own Brand,4.68
+P0075,Chickpeas 400g,Pantry,Branded,1.1
+P0076,Woolworths Chickpeas 400g,Pantry,Woolworths Own Brand,0.86
+P0077,Frozen Peas 1kg,Freezer,Branded,3.0
+P0078,Woolworths Frozen Peas 1kg,Freezer,Woolworths Own Brand,2.34
+P0079,Ice Cream 2L,Freezer,Branded,7.0
+P0080,Woolworths Ice Cream 2L,Freezer,Woolworths Own Brand,5.46
+P0081,Frozen Pizza,Freezer,Branded,6.5
+P0082,Woolworths Frozen Pizza,Freezer,Woolworths Own Brand,5.07
+P0083,Frozen Mixed Berries 500g,Freezer,Branded,6.0
+P0084,Woolworths Frozen Mixed Berries 500g,Freezer,Woolworths Own Brand,4.68
+P0085,Fish Fingers 400g,Freezer,Branded,5.5
+P0086,Woolworths Fish Fingers 400g,Freezer,Woolworths Own Brand,4.29
+P0087,Sparkling Water 1.25L,Drinks,Branded,1.5
+P0088,Woolworths Sparkling Water 1.25L,Drinks,Woolworths Own Brand,1.17
+P0089,Orange Juice 2L,Drinks,Branded,5.5
+P0090,Woolworths Orange Juice 2L,Drinks,Woolworths Own Brand,4.29
+P0091,Cola 1.25L,Drinks,Branded,3.5
+P0092,Woolworths Cola 1.25L,Drinks,Woolworths Own Brand,2.73
+P0093,Spring Water 24pk,Drinks,Branded,9.0
+P0094,Woolworths Spring Water 24pk,Drinks,Woolworths Own Brand,7.02
+P0095,Potato Chips 175g,Snacks & Confectionery,Branded,4.5
+P0096,Woolworths Potato Chips 175g,Snacks & Confectionery,Woolworths Own Brand,3.51
+P0097,Chocolate Block 180g,Snacks & Confectionery,Branded,5.0
+P0098,Woolworths Chocolate Block 180g,Snacks & Confectionery,Woolworths Own Brand,3.9
+P0099,Crackers 250g,Snacks & Confectionery,Branded,3.0
+P0100,Woolworths Crackers 250g,Snacks & Confectionery,Woolworths Own Brand,2.34
+P0101,Mixed Nuts 375g,Snacks & Confectionery,Branded,9.0
+P0102,Woolworths Mixed Nuts 375g,Snacks & Confectionery,Woolworths Own Brand,7.02
+P0103,Biscuits 200g,Snacks & Confectionery,Branded,3.5
+P0104,Woolworths Biscuits 200g,Snacks & Confectionery,Woolworths Own Brand,2.73
+P0105,Dishwashing Liquid 900ml,Household,Branded,4.0
+P0106,Woolworths Dishwashing Liquid 900ml,Household,Woolworths Own Brand,3.12
+P0107,Laundry Liquid 2L,Household,Branded,15.0
+P0108,Woolworths Laundry Liquid 2L,Household,Woolworths Own Brand,11.7
+P0109,Toilet Paper 12pk,Household,Branded,9.0
+P0110,Woolworths Toilet Paper 12pk,Household,Woolworths Own Brand,7.02
+P0111,Paper Towel 4pk,Household,Branded,6.0
+P0112,Woolworths Paper Towel 4pk,Household,Woolworths Own Brand,4.68
+P0113,Garbage Bags 50pk,Household,Branded,6.5
+P0114,Woolworths Garbage Bags 50pk,Household,Woolworths Own Brand,5.07
+P0115,Shampoo 400ml,Health & Beauty,Branded,7.0
+P0116,Woolworths Shampoo 400ml,Health & Beauty,Woolworths Own Brand,5.46
+P0117,Toothpaste 110g,Health & Beauty,Branded,4.0
+P0118,Woolworths Toothpaste 110g,Health & Beauty,Woolworths Own Brand,3.12
+P0119,Body Wash 1L,Health & Beauty,Branded,8.0
+P0120,Woolworths Body Wash 1L,Health & Beauty,Woolworths Own Brand,6.24
+P0121,Sunscreen SPF50 200ml,Health & Beauty,Branded,14.0
+P0122,Woolworths Sunscreen SPF50 200ml,Health & Beauty,Woolworths Own Brand,10.92
+P0123,Nappies Crawler 50pk,Baby,Branded,22.0
+P0124,Woolworths Nappies Crawler 50pk,Baby,Woolworths Own Brand,17.16
+P0125,Baby Wipes 80pk,Baby,Branded,4.5
+P0126,Woolworths Baby Wipes 80pk,Baby,Woolworths Own Brand,3.51
+P0127,Baby Food Pouch 120g,Baby,Branded,2.0
+P0128,Woolworths Baby Food Pouch 120g,Baby,Woolworths Own Brand,1.56
+P0129,Dry Dog Food 3kg,Pet,Branded,20.0
+P0130,Woolworths Dry Dog Food 3kg,Pet,Woolworths Own Brand,15.6
+P0131,Cat Food Tins 12pk,Pet,Branded,14.0
+P0132,Woolworths Cat Food Tins 12pk,Pet,Woolworths Own Brand,10.92

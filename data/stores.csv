@@ -1,0 +1,11 @@
+store_id,store_name,region,store_format
+S01,Woolworths Metro Melbourne Central,Inner,Metro
+S02,Woolworths South Yarra,Inner,Supermarket
+S03,Woolworths Preston,North,Supermarket
+S04,Woolworths Craigieburn,North,Supermarket
+S05,Woolworths Footscray,West,Supermarket
+S06,Woolworths Werribee,West,Supermarket
+S07,Woolworths Box Hill,East,Supermarket
+S08,Woolworths Ringwood,East,Supermarket
+S09,Woolworths Clayton,South East,Supermarket
+S10,Woolworths Cranbourne,South East,Supermarket
